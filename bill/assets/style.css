@@ -1,0 +1,55 @@
+body {
+  background-color: #fbdbdb;
+  height: 100%;
+}
+.wrapper {
+  margin-top: 5%;
+}
+.card-bottom {
+  background-color: #fff;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 0;
+  padding: 0;
+}
+.bill {
+  display: inline-block;
+  padding: 20px;
+  left: 2rem;
+}
+.close {
+  display: inline-block;  
+  padding: 25px;
+  left: 2rem;
+}
+.close:hover {
+  opacity: 1;
+}
+.card{
+  border-radius: 10px;
+}
+.card-body {
+  background-color: #f8fafb;
+}
+.card-header{
+  border-bottom: none!important ;
+}
+.product {
+  text-align: center;
+  font-size: 30px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+.btn-delete {
+  background-color: red;
+  font-size: 1rem;
+  display: inline-block;
+}
+.sum {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
